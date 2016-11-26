@@ -1,4 +1,4 @@
-public class Problem_11 {
+public class proj11 {
     public static void main(String [] args){
         int Grid [][] = {
         {8,02,22,97,38,15,00,40,00,75,04,05,07,78,52,12,50,77,91,8},

@@ -1,4 +1,4 @@
-public class Problem008
+public class proj8
 {
 	public static int checkInt(String s)
 	{
